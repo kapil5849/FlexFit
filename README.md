@@ -38,11 +38,11 @@
 - This project is licensed under the MIT License - see the LICENSE file for details.
 ---
 ## Contact
-- If you have any questions or comments about Quote Inspire, please contact me at kvaishnav408@gmail.com
+- If you have any questions or comments about FlexFit, please contact me at kvaishnav408@gmail.com
 ---
 [FlexFit](https://flexfit.netlify.app/)
 
-[GitHub](https://github.com/kapil5849/flexfit)
+[GitHub](https://github.com/kapil5849/FlexFit)
 
 
 
